@@ -1,0 +1,166 @@
+ <div class="testimonial_container container slideshow-container">
+                <div class="swiper-wrapper mySlides fade">
+                    <!--------------------------------------------TESTIMONIAL 1--------------------------------->
+                    <div class="testimonial_content swiper-slide mySlides fade">
+                        <div class="testimonial_data">
+                            <div class="testimonial_header">
+                                <img src="assets/img/p1.png" alt="" class="testimonial_img">
+
+                                <div>
+                                    <h3 class="testimonial_name">John Doe</h3>
+                                    <span class="testimonial_client">Client</span>
+                                </div>
+                            </div>
+
+                            <div>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                            </div>
+                        </div>
+
+                        <p class="testimonial_description">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus optio 
+                            quasi, placeat enim obcaecati totam!
+                        </p>
+                    </div>
+
+                    
+                     
+                     <!--------------------------------------------TESTIMONIAL 1--------------------------------->
+                     <div class="testimonial_content swiper-slide mySlides fade">
+                        <div class="testimonial_data">
+                            <div class="testimonial_header">
+                                <img src="assets/img/p2.png" alt="" class="testimonial_img">
+
+                                <div>
+                                    <h3 class="testimonial_name">John Doe</h3>
+                                    <span class="testimonial_client">Client</span>
+                                </div>
+                            </div>
+
+                            <div>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                            </div>
+                        </div>
+
+                        <p class="testimonial_description">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus optio 
+                            quasi, placeat enim obcaecati totam!
+                        </p>
+                    </div>
+
+                     <!--------------------------------------------TESTIMONIAL 2--------------------------------->
+                     <div class="testimonial_content swiper-slide mySlides fade">
+                        <div class="testimonial_data">
+                            <div class="testimonial_header">
+                                <img src="assets/img/p4.png" alt="" class="testimonial_img">
+
+                                <div>
+                                    <h3 class="testimonial_name">John Doe</h3>
+                                    <span class="testimonial_client">Client</span>
+                                </div>
+                            </div>
+
+                            <div>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                            </div>
+                        </div>
+
+                        <p class="testimonial_description">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus optio 
+                            quasi, placeat enim obcaecati totam!
+                        </p>
+                    </div>
+
+                     <!--------------------------------------------TESTIMONIAL 3--------------------------------->
+                     <div class="testimonial_content swiper-slide mySlides fade">
+                        <div class="testimonial_data">
+                            <div class="testimonial_header">
+                                <img src="assets/img/p6.png" alt="" class="testimonial_img">
+
+                                <div>
+                                    <h3 class="testimonial_name">John Doe</h3>
+                                    <span class="testimonial_client">Client</span>
+                                </div>
+                            </div>
+
+                            <div>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                            </div>
+                        </div>
+
+                        <p class="testimonial_description">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus optio 
+                            quasi, placeat enim obcaecati totam!
+                        </p>
+                    </div>
+
+                     <!--------------------------------------------TESTIMONIAL 4--------------------------------->
+                     <div class="testimonial_content swiper-slide mySlides fade">
+                        <div class="testimonial_data">
+                            <div class="testimonial_header">
+                                <img src="assets/img/p7.png" alt="" class="testimonial_img">
+
+                                <div>
+                                    <h3 class="testimonial_name">John Doe</h3>
+                                    <span class="testimonial_client">Client</span>
+                                </div>
+                            </div>
+
+                            <div>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                            </div>
+                        </div>
+
+                        <p class="testimonial_description">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus optio 
+                            quasi, placeat enim obcaecati totam!
+                        </p>
+                    </div>
+
+                     <!--------------------------------------------TESTIMONIAL 5--------------------------------->
+                     <div class="testimonial_content swiper-slide mySlides fade">
+                        <div class="testimonial_data">
+                            <div class="testimonial_header">
+                                <img src="assets/img/p8.png" alt="" class="testimonial_img">
+
+                                <div>
+                                    <h3 class="testimonial_name">John Doe</h3>
+                                    <span class="testimonial_client">Client</span>
+                                </div>
+                            </div>
+
+                            <div>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                                <i class="uil uil-star testimonial_icon-star"></i>
+                            </div>
+                        </div>
+
+                        <p class="testimonial_description">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus optio 
+                            quasi, placeat enim obcaecati totam!
+                        </p>
+                    </div>
+                </div>
